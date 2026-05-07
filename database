@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PackData basePack="http://example.com/basepackurl.xml" name="Darlington FC" desc="Adds Darlington FC.">
+
+<ClubData baseImageUrl="https://seeklogo.com/vector-logo/233109/darlington-fc">
+<C id="219" n="Darlington FC" i="DarlingtonFC.jpg" />
+</ClubData>
+
+</PackData>
